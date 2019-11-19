@@ -1,2 +1,2 @@
-# Algorithms
-Data Structure and Algorithms 
+# Ontologu
+A simple CS department ontology
