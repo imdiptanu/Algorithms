@@ -1,2 +1,2 @@
 # Ontology
-A simple CS department ontology
+A simple CS department ontology.
